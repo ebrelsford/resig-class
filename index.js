@@ -61,6 +61,5 @@
 
         return Class;
     };
+    return Class;
 })();
-
-module.exports = Class;
